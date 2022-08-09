@@ -1,4 +1,4 @@
-<h1> Obsah jednotlivých súborov </h1>
+
 
 Program sa zaoberá vyhotovením simulácie mestkej hromadnej dopravy v meste Prešov. Jadro programu, teda agentová simulácia na mape bežiacej vo webovom rozhraní,
 bola zostrojená Ing. Marcelom Vološinom z katedry počítačov a informatiky (Technický Univerzita v Košiciach). Rozšíril som fungovanie simulácie a agentov reprezentujúcich
@@ -9,11 +9,11 @@ pre vytvorenie už spomínaného generátora meškaní.
 
 Jednotlivé spoje na každej zastávke aj pracovali s objektmi cestujúcich, ktorý mali zadané, ktorým autobusom sa chcú na akú zastávku dostať a boli pravidelne vytváraný nový aby sa týmto vytvoril dojdem cikulácie populácie po meste. Simulácie sa okrajovo aj zaoberá vplyvom počasie no to len na toľko že je možné nastaviť jeden z niekoľkých typov čo zmení rýchlosť pohybu vozidiel.
 
+<h1> Obsah jednotlivých súborov </h1>
 
-
-##Movement-Python 
-Hlavný program obsahujúci samotnú simuláciu
-##Vyhodnotenie_dat 
-Program, ktorý spracovával zozbierané údaje o pohybe MHD spojov, tu prebiehal výpočet aritmetického priemeru a štandartnej odchýlky
-##Zber_dat_MHD
-Samotné zbieranie dát z webového portálu mesta Prešov
+-<h2>Movement-Python-</h2> 
+  -Hlavný program obsahujúci samotnú simuláciu
+-<h2>Vyhodnotenie_dat</h2> 
+  -Program, ktorý spracovával zozbierané údaje o pohybe MHD spojov, tu prebiehal výpočet aritmetického priemeru a štandartnej odchýlky
+-<h2>Zber_dat_MHD</h2>
+  -Samotné zbieranie dát z webového portálu mesta Prešov
