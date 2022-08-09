@@ -1,4 +1,4 @@
-#Obsah jednotlivých súborov
+<h1> Obsah jednotlivých súborov </h1>
 
 Program sa zaoberá vyhotovením simulácie mestkej hromadnej dopravy v meste Prešov. Jadro programu, teda agentová simulácia na mape bežiacej vo webovom rozhraní,
 bola zostrojená Ing. Marcelom Vološinom z katedry počítačov a informatiky (Technický Univerzita v Košiciach). Rozšíril som fungovanie simulácie a agentov reprezentujúcich
