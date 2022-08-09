@@ -8,6 +8,7 @@ pre vytvorenie už spomínaného generátora meškaní.
 Jednotlivé spoje na každej zastávke aj pracovali s objektmi cestujúcich, ktorý mali zadané, ktorým autobusom sa chcú na akú zastávku dostať a boli pravidelne vytváraný nový aby sa týmto vytvoril dojdem cikulácie populácie po meste. Simulácie sa okrajovo aj zaoberá vplyvom počasie no to len na toľko že je možné nastaviť jeden z niekoľkých typov čo zmení rýchlosť pohybu vozidiel.
 
 #Obsah jednotlivých súborov
+
 ##Movement-Python 
 Hlavný program obsahujúci samotnú simuláciu
 ##Vyhodnotenie_dat 
