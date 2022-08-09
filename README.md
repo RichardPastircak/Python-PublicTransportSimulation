@@ -17,3 +17,6 @@ Jednotlivé spoje na každej zastávke aj pracovali s objektmi cestujúcich, kto
   Program, ktorý spracovával zozbierané údaje o pohybe MHD spojov, tu prebiehal výpočet aritmetického priemeru a štandartnej odchýlky
 <h2>Zber_dat_MHD</h2>
   Samotné zbieranie dát z webového portálu mesta Prešov
+
+<h1>Link na video ukážku</h1>
+https://youtu.be/Ua7KFobkYJY
