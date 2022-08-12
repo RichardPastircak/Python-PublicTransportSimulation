@@ -7,7 +7,7 @@ pomocou Gaussovho rozdelenia pravdepodobnsti. Dáta na zhotovenie takéhoto gene
 Následne som ich spracoval, vytriedil niektoré chybné údaje a vyhotovil z nich priemerné meškania na jednotlivých úskoch ako aj štandartnú odchýlku, ktoré som potreboval
 pre vytvorenie už spomínaného generátora meškaní.
 
-Jednotlivé spoje na každej zastávke aj pracovali s objektmi cestujúcich, ktorý mali zadané, ktorým autobusom sa chcú na akú zastávku dostať a boli pravidelne vytváraný nový aby sa týmto vytvoril dojdem cirkulácie populácie po meste. Simulácie sa okrajovo aj zaoberá vplyvom počasie no to len na toľko že je možné nastaviť jeden z niekoľkých typov čo zmení rýchlosť pohybu vozidiel.
+Jednotlivé spoje na každej zastávke aj pracovali s objektmi cestujúcich, ktorí mali zadané, ktorým autobusom sa chcú na akú zastávku dostať a boli pravidelne vytváraný noví aby sa týmto vytvoril dojem cirkulácie populácie po meste. Simulácie sa okrajovo aj zaoberá vplyvom počasie no to len na toľko že je možné nastaviť jeden z niekoľkých typov čo zmení rýchlosť pohybu vozidiel.
 
 <h1> Obsah jednotlivých súborov </h1>
 
